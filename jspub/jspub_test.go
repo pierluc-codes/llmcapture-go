@@ -11,8 +11,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"git.pierluc-codes.com/pierluc-codes/llmcapture-go"
-	"git.pierluc-codes.com/pierluc-codes/llmcapture-go/jspub"
+	"github.com/pierluc-codes/llmcapture-go"
+	"github.com/pierluc-codes/llmcapture-go/jspub"
 )
 
 var _ llmcapture.Publisher = (*jspub.Publisher)(nil)

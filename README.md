@@ -3,7 +3,7 @@
 Go implementation of llmcapture (package `llmcapture`):
 
 ```sh
-go get git.pierluc-codes.com/pierluc-codes/llmcapture-go
+go get github.com/pierluc-codes/llmcapture-go
 ```
 
 Wraps an LLM client so every call is published to NATS as two JSON messages,

@@ -14,7 +14,7 @@ import (
 	"github.com/stretchr/testify/require"
 	"google.golang.org/genai"
 
-	"git.pierluc-codes.com/pierluc-codes/llmcapture-go"
+	"github.com/pierluc-codes/llmcapture-go"
 )
 
 var _ llmcapture.Generator = (*genai.Models)(nil)

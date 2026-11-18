@@ -1,4 +1,4 @@
-module git.pierluc-codes.com/pierluc-codes/llmcapture-go
+module github.com/pierluc-codes/llmcapture-go
 
 go 1.26.0
 
